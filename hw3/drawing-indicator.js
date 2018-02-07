@@ -12,7 +12,7 @@ function draw() {
     ellipse(mouseX, mouseY, diameter);
   }
   
-	push();
+  push();
   fill(255);
   rectMode(CENTER);
   rect(width-10, height-10, 31, 31);
